@@ -1,4 +1,4 @@
-# 👋 Hola, soy Brandon Inostroza Canio
+# 👋 Hola, soy Brandon Dylan Inostroza Canio
 
 💻 **QA Automation | Fullstack Developer en formación**  
 🚀 Apasionado por la automatización, testing y desarrollo de software robusto  
@@ -22,10 +22,12 @@ Me caracterizo por ser autodidacta, adaptarme rápido y trabajar bien en equipo.
 ## 🚀 Experiencia
 
 ### 🧪 SQA Intern — TestGroup (2025)
-- Automatización con **Selenium (Java + Maven)**
+- Automatización con **Selenium (Java + Maven)** y **Playwright**
 - Pruebas de rendimiento con **JMeter**
-- Integración continua con **Jenkins**
+- Integración continua con **Jenkins y GitHub Actions**
 - Análisis de código con **SonarQube**
+- Pruebas de API con **Postman y Playwright**
+- Desarrollo de extensión de Chrome para captura de selectores (**XPath/CSS**) utilizando herramientas de desarrollo asistido por IA (**Antigravity**) y técnicas de Prompt Engineering
 
 ### 💻 Developer Intern — DXC Technology (2025)
 - Desarrollo en **ServiceNow (Low-Code)**
@@ -50,13 +52,27 @@ Me caracterizo por ser autodidacta, adaptarme rápido y trabajar bien en equipo.
 
 ### 🧪 QA & Testing
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+### ⚙️ CI/CD & Herramientas
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+### 🔍 Calidad & Gestión
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### ☁️ Otros
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### 🗄️ Bases de Datos
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### ☁️ Backend / BaaS
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
@@ -82,5 +98,4 @@ Me caracterizo por ser autodidacta, adaptarme rápido y trabajar bien en equipo.
 ---
 
 ## 💬 Frase
-Divide y venceras
-
+Divide y vencerás
